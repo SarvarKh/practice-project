@@ -1,0 +1,31 @@
+body {
+    background-image: url("website-design-background-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: 'Baloo Tamma 2', cursive;
+    font-size: 1.25rem;
+}
+
+.main-heading {
+    text-align: center;
+}
+
+.filling-form {
+    background-color: rgba(0, 0, 0, .5);
+    width: 50rem;
+    margin: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.form-input {
+    width: 45rem;
+    margin: auto;
+}
+
+.full-input {
+    width: 40rem;
+    padding: .75rem;
+    border-radius: .5rem;
+}
